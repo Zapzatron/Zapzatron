@@ -7,4 +7,8 @@ Feel free to join us:
 [Telegram Chat](https://t.me/+NkT96igVJ180NTQy): Here you can send bug reports, suggestions or just chat :)  
 Support email: zapzatron.bot.help@gmail.com
 
+#### Documentation
+
+1. Go to the [Zapzatron bot](https://t.me/Zapzatron_Bot).  
+2. Call /menu.
 ----------------------------------------
