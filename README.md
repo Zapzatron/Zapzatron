@@ -10,5 +10,5 @@ Support email: zapzatron.bot.help@gmail.com
 #### Documentation
 
 1. Go to the [Zapzatron bot](https://t.me/Zapzatron_Bot).  
-2. Call /start or /menu.
+2. Call ```/start``` or ```/menu```.
 ----------------------------------------
