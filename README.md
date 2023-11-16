@@ -1,3 +1,4 @@
+Большинство проектов находится в закрытом доступе и не включено в список.
 ## Main projects
 
 ### [Zapzatron Bot](https://t.me/Zapzatron_Bot)
