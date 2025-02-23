@@ -7,5 +7,5 @@ Most of the projects are closed access and not listed.
 2. Call ```/start```
 ----------------------------------------
 
-Contact me through [the main group](https://t.me/ZapzatronClub)  
+Contact me through the [main group](https://t.me/ZapzatronClub)  
 You can write without being accepted into the group in [old group](https://t.me/Zapzatron_Bot_Channel)  
